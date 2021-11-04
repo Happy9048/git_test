@@ -1,1 +1,0 @@
-This is Happy's first git project
